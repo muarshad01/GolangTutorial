@@ -1,6 +1,8 @@
 # Examples
 [Files and Directories](https://www.golangprograms.com/files-directories-examples.html)
 
+***
+
 ```go
 $ go doc os
 $ go doc os File
