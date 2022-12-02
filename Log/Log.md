@@ -5,6 +5,9 @@ $ go doc log
 $ go doc -src log Print
 $ go doc -src log Fatal
 $ go doc -src log Panic
+
+$ go doc smtp
+$ go doc smtp Client
 ```
 
 ***
