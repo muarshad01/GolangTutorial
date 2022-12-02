@@ -21,6 +21,9 @@ $ do doc -src os FileInfo
 $ go doc os IsNotExist
 $ go doc os MkdirAll
 
+$ go doc os Rename
+$ go doc -src os Rename
+
 ```
 
 ***
