@@ -48,13 +48,13 @@ func init(){
 }
 
 func main() {
-  // Println writes to the standard logger.
+  	// Println writes to the standard logger.
 	log.Println("main started")
 
-  // Fatalln is Println() followed by a call to os.Exit(1)
+  	// Fatalln is Println() followed by a call to os.Exit(1)
 	log.Fatalln("fatal message")
 
-  // Panicln is Println() followed by a call to panic()
+  	// Panicln is Println() followed by a call to panic()
 	log.Panicln("panic message")
 }
 ```
