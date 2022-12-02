@@ -30,6 +30,17 @@ $ go doc io Copy
 
 $ go doc os Rename
 
+$ go doc fs FileInfo
+
+$ go doc ioutil ReadFile
+$ go doc strings string
+$ go doc strings Builder
+$ go doc strings NewReader
+
+$ go doc io Reader
+$ go doc bufio NewScanner
+$ go doc bufio Scanner
+
 ```
 
 ***
