@@ -1,7 +1,8 @@
 
 ```go
-go doc log
+$ go doc log
 ```
+
 ***
 
 [log package](https://pkg.go.dev/log#pkg-index)
@@ -33,3 +34,10 @@ func SetPrefix(prefix string)
 func Writer() io.Writer
 ...
 ```
+
+***
+
+# Examples
+[Logging Go Programs](https://www.golangprograms.com/go-language/logging-go-programs.html)
+
+***
