@@ -1,6 +1,10 @@
 
 ```go
 $ go doc log
+
+$ go doc -src log Print
+$ go doc -src log Fatal
+$ go doc -src log Panic
 ```
 
 ***
