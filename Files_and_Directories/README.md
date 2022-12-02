@@ -24,6 +24,12 @@ $ go doc os MkdirAll
 $ go doc os Rename
 $ go doc -src os Rename
 
+$ go doc os Open
+$ go doc os Create
+$ go doc io Copy
+
+$ go doc os Rename
+
 ```
 
 ***
