@@ -1,5 +1,5 @@
 # Golang Tutorial
 
-* [Code](https://www.golangprograms.com/)
+* [Code link](https://www.golangprograms.com/)
 
 ***
