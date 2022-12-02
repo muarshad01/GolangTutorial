@@ -2,13 +2,15 @@
 ```go
 go doc log
 ```
+***
 
 [log package](https://pkg.go.dev/log#pkg-index)
+
 ```go
 Constants
-func Fatal(v ...any)
-func Fatalf(format string, v ...any)
-func Fatalln(v ...any)
+-> func Fatal(v ...any)
+-> func Fatalf(format string, v ...any)
+-> func Fatalln(v ...any)
 func Flags() int
 func Output(calldepth int, s string) error
 func Panic(v ...any)
