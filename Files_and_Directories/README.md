@@ -15,6 +15,7 @@ $ go doc -src os Close
 
 $ do doc os Stat
 $ do doc os FileInfo
+$ do doc fs FileInfo
 $ do doc -src os Stat
 $ do doc -src os FileInfo
 
