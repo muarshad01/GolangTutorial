@@ -13,11 +13,11 @@ $ go doc -src os Create
 $ go doc -src os Close
 
 
-$ do doc os Stat
-$ do doc os FileInfo
-$ do doc fs FileInfo
-$ do doc -src os Stat
-$ do doc -src os FileInfo
+$ go doc os Stat
+$ go doc os FileInfo
+$ go doc fs FileInfo
+$ go doc -src os Stat
+$ go doc -src os FileInfo
 
 $ go doc os IsNotExist
 $ go doc os MkdirAll
@@ -34,13 +34,12 @@ $ go doc strings string
 $ go doc strings Builder
 $ go doc strings NewReader
 
-$ go doc zip
-$ go doc filepath
-
 $ go doc io Reader
 $ go doc bufio NewScanner
 $ go doc bufio Scanner
 
+$ go doc zip
+$ go doc filepath
 ```
 
 ***
