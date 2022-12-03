@@ -29,10 +29,6 @@ $ go doc os Open
 $ go doc os Create
 $ go doc io Copy
 
-$ go doc os Rename
-
-$ go doc fs FileInfo
-
 $ go doc ioutil ReadFile
 $ go doc strings string
 $ go doc strings Builder
