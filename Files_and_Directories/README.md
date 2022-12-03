@@ -34,6 +34,9 @@ $ go doc strings string
 $ go doc strings Builder
 $ go doc strings NewReader
 
+$ go doc zip
+$ go doc filepath
+
 $ go doc io Reader
 $ go doc bufio NewScanner
 $ go doc bufio Scanner
