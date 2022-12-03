@@ -3,6 +3,10 @@
 
 ***
 
+[os package](https://pkg.go.dev/os)
+
+***
+
 ```go
 $ go doc os
 $ go doc os File
@@ -41,9 +45,5 @@ $ go doc bufio Scanner
 $ go doc zip
 $ go doc filepath
 ```
-
-***
-
-[os package][https://pkg.go.dev/os]
 
 ***
