@@ -2,6 +2,18 @@
 [Reading and Writing Different File Types](https://www.golangprograms.com/reading-and-writing-different-file-types.html)
 
 ***
+
+## XML
+```go
+$ go doc ioutil ReadFile
+$ go doc iotuil WriteFile
+
+$ go doc xml
+$ go doc xml Unmarshal
+$ go doc xml MarshalIndent
+```
+
+
 ```go
 $ go doc json
 
