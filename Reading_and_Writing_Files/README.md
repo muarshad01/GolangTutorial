@@ -25,6 +25,23 @@ $ go doc json Unmarshal
 $ go doc json MarshalIndent
 ```
 
+## TXT
+
+```go
+$ go doc os Open
+$ go doc os OpenFile
+$ go doc bufio NewScanner
+$ go doc bufio NewWriter
+$ go doc bufio Scanner
+$ go doc bufio ScanLines
+$ go doc bufio Scan
+$ go doc bufio Text
+$ go doc builtin append
+$ go doc os WriteString
+
+```
+
+### CSV
 
 ```go
 $ go doc json
