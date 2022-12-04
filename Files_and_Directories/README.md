@@ -44,6 +44,10 @@ $ go doc bufio Scanner
 
 $ go doc zip
 $ go doc filepath
+
+$ go doc zip OpenReader
+$ go doc zip ReadCloser
+$ go doc zip Reader
 ```
 
 ***
