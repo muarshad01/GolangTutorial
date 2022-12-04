@@ -3,6 +3,11 @@
 
 ***
 
+## Article
+[Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
+
+***
+
 ## XML
 
 ```go
