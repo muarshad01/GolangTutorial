@@ -4,6 +4,7 @@
 ***
 
 ## XML
+
 ```go
 $ go doc ioutil ReadFile
 $ go doc iotuil WriteFile
@@ -11,6 +12,17 @@ $ go doc iotuil WriteFile
 $ go doc xml
 $ go doc xml Unmarshal
 $ go doc xml MarshalIndent
+```
+
+## JSON
+
+```go
+$ go doc ioutil ReadFile
+$ go doc iotuil WriteFile
+
+$ go doc json
+$ go doc json Unmarshal
+$ go doc json MarshalIndent
 ```
 
 
