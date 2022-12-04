@@ -44,23 +44,19 @@ $ go doc os WriteString
 ### CSV
 
 ```go
-$ go doc json
-
-$ go doc os Open
-$ go doc os OpenFile
-$ go doc os Create
-
+$ os.Open
+$ os.Create
 $ go doc bufio NewScanner
-$ go doc bufio NewWriter
-$ go doc csv   NewWriter
 $ go doc bufio Scanner
-$ go doc bufio Flush
-$ go doc csv   Flush
-
-# Scanner
-$ go doc bufio Split
-$ go doc bufio Scanlines
+$ go doc bufio ScanLines
+$ go doc ... Split
 $ go doc bufio Scan
 $ go doc bufio Text
 $ go doc builtin append
+
+go doc csv NewWriter
+do doc os Write
+go doc ... Flush
 ```
+
+***
