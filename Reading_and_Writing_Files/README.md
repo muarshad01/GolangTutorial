@@ -2,7 +2,7 @@
 [Reading and Writing Different File Types](https://www.golangprograms.com/reading-and-writing-different-file-types.html)
 
 ***
-
+```go
 $ go doc json
 
 $ go doc os Open
@@ -22,3 +22,4 @@ $ go doc bufio Scanlines
 $ go doc bufio Scan
 $ go doc bufio Text
 $ go doc builtin append
+```
