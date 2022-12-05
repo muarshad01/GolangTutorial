@@ -1,5 +1,5 @@
 
-## Import and Export
+## Golang Import and Export Struct Packages and Interfaces
 
 [Import and Export Examples](https://www.golangprograms.com/golang-import-and-export-struct-packages-and-interfaces.html)
 
