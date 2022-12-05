@@ -59,9 +59,9 @@ $ go doc bufio Scan
 $ go doc bufio Text
 $ go doc builtin append
 
-go doc csv NewWriter
-do doc os Write
-go doc ... Flush
+$ go doc csv NewWriter
+$ do doc os Write
+$ go doc csv Flush
 ```
 
 ***
